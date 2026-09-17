@@ -80,7 +80,8 @@ La plataforma indicó que este resultado correspondía al **percentil 99** entre
 El análisis completo, incluyendo exploración de datos, procesamiento, ingeniería de características, entrenamiento, evaluación y generación de predicciones, se encuentra en el notebook:
 
 **[ChurnPrediction.ipynb](./ChurnPrediction.ipynb)**
-**[Ver en Coursera Lab](https://hub.labs.coursera.org/connect/sharedoigfwpjj?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&sessionMigrationMode=shadow)
+
+**[Ver en Coursera Lab](https://hub.labs.coursera.org/connect/sharedoigfwpjj?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&sessionMigrationMode=shadow)**
 
 ## Tecnologías
 
